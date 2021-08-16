@@ -1,5 +1,7 @@
-### Founder/Chief R&D [iCAMP.DEV](https://iCAMP.DEV)
+<h1 align="center">Prashanth BM </h1>
+<h3 align="center">Founder - Chief R&D iCAMP.DEV | CS.CAMP | Computer Scientist  </h3>
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/JoykishanSharma)
 Building Future Computer Science Education Platforms with [iCAMP.DEV](https://iCAMP.DEV), [CS.CAMP](https://CS.CAMP) (Under R & D - Live 2022-23)
 
 Currently Building [ALGOS.CAMP](https://ALGOS.CAMP)
