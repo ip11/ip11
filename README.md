@@ -12,8 +12,8 @@ Building Future Computer Science Education Platforms with [iCAMP.DEV](https://iC
 * Algorithm Bootcamp - Competitive Programming & Mathematics for Programmers [ALGOS.CAMP](https://algos.camp) (Live 2022) 🔄
 * Software Architecting and System Design Bootcamp. An Open Access Programmers Platform. [iCAMP.DEV](https://iCAMP.DEV) (Live 2022-23) 🔄
 * Web Assembly and Cryptography, An Open source Project [0xSSL.ORG](https://0xssl.org/) (Live 2022) 🔄
-* Building Computer Science Education Platform (Research Oriented) with [CS.CAMP](https://CS.CAMP) & [CS.DEGREE](https://CS.DEGREE) (Live 2023-24)  🔄
-* Data Scientist and AI/ML Research Camp [DS.CAMP](https://DS.CAMP) (Live 2023-24)  🔄
+* Building Computer Science Education Platform (Research Camp) with [CS.CAMP](https://CS.CAMP) & [CS.DEGREE](https://CS.DEGREE) (Live 2023-24)  🔄
+* Data Scientist and FullStack AI/ML Research Camp [DS.CAMP](https://DS.CAMP) (Live 2023-24)  🔄
 * Web Pentester Camp [PENTESTER.CAMP](https://PENTESTER.CAMP) (Live 2023-24)  🔄
 
 
