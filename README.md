@@ -1,5 +1,6 @@
-### Building Future Computer Science Education Platforms with iCAMP.DEV, CS.CAMP. 
-Founder/Chief R&D @icampdev👋
+### Founder/Chief R&D https://icamp.dev https://algos.camp👋
+Building Future Computer Science Education Platforms with iCAMP.DEV, CS.CAMP. (Under R & D - Live 2022-23)  👋
+1 Year Computer Science Education Bootcamp https://cs.code.in
 
 <!--
 **ip11/ip11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
