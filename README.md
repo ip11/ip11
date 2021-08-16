@@ -2,9 +2,12 @@
 <h3 align="center">Founder - Chief R&D iCAMP.DEV | CS.CAMP | Computer Scientist  </h3>
 
 
-<a href="https://twitter.com/iprashanth_">![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a> 
-<a href="https://www.linkedin.com/in/prashanthteja/"> ![Linked In](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
-<a href="https://www.instagram.com/prash.life">![Instagram](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
+[![Twitter](https://img.shields.io/badge/Twitter-%40iprashanth__-%231DA1F2)](https://twitter.com/iprashanth_)
+[![Instagram](https://img.shields.io/badge/Instagram-prash.life-%23bc2a8d%09)](https://instagram.com/prash.life)
+[![Linkedin](https://img.shields.io/badge/Linked%20in-prashanthteja-blue)](https://www.linkedin.com/in/prashanthteja)
+[![Facebook](https://img.shields.io/badge/Facebook-iprashanth11-%234267B2)](https://www.facebook.com/iprashanth11/)
+[![Gmail](https://img.shields.io/badge/E--Mail-prash%40icamp.dev-red)](mailto:prash@icamp.dev)
+
                                                                
 Building Future Computer Science Education Platforms with [iCAMP.DEV](https://iCAMP.DEV), [CS.CAMP](https://CS.CAMP) (Under R & D - Live 2022-23)
 
