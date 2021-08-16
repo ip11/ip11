@@ -7,7 +7,7 @@
 An Entrepreneur & Educationist. <br><br>
 Building Future Computer Science Education Platforms with [iCAMP.DEV](https://iCAMP.DEV), [CS.CAMP](https://CS.CAMP) (Under R & D - Live 2022-23). Passionate about coding , Innovation and wanna be the disruptor in the field of Education. 
 
-1 Year World Class Computer Science Bootcamp - Focus Field in Web Engineering, [CS.CODE.IN](https://cs.code.in) (Live) ✔️ Details 
+1 Year World Class Computer Science Bootcamp - Focus Field in Web Engineering, [CS.CODE.IN](https://cs.code.in) (Live) ✔️ 
 ### 💼 My On-Going Research Portfolio : 
 * Algorithm Bootcamp - Competitive Programming & Mathematics for Programmers [ALGOS.CAMP](https://algos.camp) (Live 2022) 🔄
 * Software Architecting and System Design Bootcamp. An Open Access Programmers Platform. [iCAMP.DEV](https://iCAMP.DEV) (Live 2022-23) 🔄
