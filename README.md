@@ -5,8 +5,6 @@ Currently Building https://ALGOS.CAMP
 
 1 Year Computer Science Education Bootcamp https://CS.CODE.IN (Live)
 
-Love Space Fiction ; Dreamer.Achiever. 
-
 Instagram : https://prash.life
 
 Twitter : https://twitter.com/iprashanth_
