@@ -1,4 +1,5 @@
-### Hi there 👋
+### Building Future Computer Science Education Platforms with iCAMP.DEV, CS.CAMP. 
+Founder/Chief R&D @icampdev👋
 
 <!--
 **ip11/ip11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
