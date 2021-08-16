@@ -5,8 +5,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%40iprashanth__-%231DA1F2)](https://twitter.com/iprashanth_)
 [![Instagram](https://img.shields.io/badge/Instagram-prash.life-%23bc2a8d%09)](https://instagram.com/prash.life)
 [![Linkedin](https://img.shields.io/badge/Linked%20in-prashanthteja-blue)](https://www.linkedin.com/in/prashanthteja)
-[![Facebook](https://img.shields.io/badge/Facebook-iprashanth11-%234267B2)](https://www.facebook.com/iprashanth11/)
-[![Gmail](https://img.shields.io/badge/E--Mail-prash%40icamp.dev-red)](mailto:prash@icamp.dev)
 
                                                                
 Building Future Computer Science Education Platforms with [iCAMP.DEV](https://iCAMP.DEV), [CS.CAMP](https://CS.CAMP) (Under R & D - Live 2022-23)
