@@ -1,7 +1,8 @@
-### Founder/Chief R&D https://iCAMP.DEV 
-Building Future Computer Science Education Platforms with iCAMP.DEV, CS.CAMP. (Under R & D - Live 2022-23)
+### Founder/Chief R&D [iCAMP.DEV](https://iCAMP.DEV)
 
-Currently Building [a link](https://ALGOS.CAMP)
+Building Future Computer Science Education Platforms with [iCAMP.DEV](https://iCAMP.DEV), [CS.CAMP](https://CS.CAMP) (Under R & D - Live 2022-23)
+
+Currently Building [ALGOS.CAMP](https://ALGOS.CAMP)
 
 1 Year Computer Science Education Bootcamp https://CS.CODE.IN (Live)
 
