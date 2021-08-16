@@ -1,7 +1,11 @@
 <h1 align="center">Prashanth BM </h1>
 <h3 align="center">Founder - Chief R&D iCAMP.DEV | CS.CAMP | Computer Scientist  </h3>
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/JoykishanSharma)
+
+<a href="https://twitter.com/iprashanth_">![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a> 
+<a href="https://www.linkedin.com/in/prashanthteja/"> ![Linked In](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+<a href="https://www.instagram.com/prash.life">![Instagram](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
+                                                               
 Building Future Computer Science Education Platforms with [iCAMP.DEV](https://iCAMP.DEV), [CS.CAMP](https://CS.CAMP) (Under R & D - Live 2022-23)
 
 Currently Building [ALGOS.CAMP](https://ALGOS.CAMP)
