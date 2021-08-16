@@ -1,7 +1,15 @@
-### Founder/Chief R&D https://iCAMP.DEV https://ALGOS.CAMP
+### Founder/Chief R&D https://iCAMP.DEV 
 Building Future Computer Science Education Platforms with iCAMP.DEV, CS.CAMP. (Under R & D - Live 2022-23)
 
+Currently Building https://ALGOS.CAMP
+
 1 Year Computer Science Education Bootcamp https://CS.CODE.IN (Live)
+
+Love Space Fiction ; Dreamer.Achiever. 
+
+Instagram : https://prash.life
+
+Twitter : https://twitter.com/iprashanth_
 
 <!--
 **ip11/ip11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
