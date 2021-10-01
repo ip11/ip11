@@ -15,6 +15,7 @@ Building Future Computer Science Education Platforms with [iCAMP.DEV](https://iC
 * Building Computer Science Education Platform (Research Camp) with [CS.CAMP](https://CS.CAMP) & [CS.DEGREE](https://CS.DEGREE) (Live 2023-24)  🔄
 * Data Scientist and FullStack AI/ML Research Camp [DS.CAMP](https://DS.CAMP) (Live 2023-24)  🔄
 * Web Pentester Camp [PENTESTER.CAMP](https://PENTESTER.CAMP) (Live 2023-24)  🔄
+* Mechatronics Camp [MECHATRONICS.CAMP](https://MECHATRONICS.CAMP) (Live 2024-25)  🔄
 
 <br>
 
