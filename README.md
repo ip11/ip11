@@ -10,7 +10,7 @@ Building Future Computer Science Education Platforms with [i.CAMP](https://i.CAM
 1 Year World Class Computer Science Bootcamp - Focus Field in Web Engineering, [CS.CODE.IN](https://cs.code.in) (Live) ✔️ 
 ### 💼 My On-Going Research Portfolio : 
 * Algorithm Bootcamp - Competitive Programming & Mathematics for Programmers [ALGOS.CAMP](https://algos.camp) (Live 2022) 🔄
-* Software Architecting and System Design Bootcamp. An Open Access Programmers Platform. [iCAMP.DEV](https://iCAMP.DEV) (Live 2022-23) 🔄
+* Software Architecting and System Design Bootcamp. An Open Access Programmers Platform. [i.CAMP](https://i.CAMP) (Live 2022-23) 🔄
 * Web Assembly and Cryptography, An Open source Project [0xSSL.ORG](https://0xssl.org/) (Live 2022) 🔄
 * Building Computer Science Education Platform (Research Camp) with [CS.CAMP](https://CS.CAMP) & [CS.DEGREE](https://CS.DEGREE) (Live 2023-24)  🔄
 * Data Scientist and FullStack AI/ML Research Camp [DS.CAMP](https://DS.CAMP) (Live 2023-24)  🔄
