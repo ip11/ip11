@@ -22,7 +22,7 @@ Building Future Computer Science Education Platforms with [i.CAMP](https://i.CAM
 [![Twitter](https://img.shields.io/badge/Twitter-%40iprashanth__-%231DA1F2)](https://twitter.com/iprashanth_) 
 [![Instagram](https://img.shields.io/badge/Instagram-prash.life-%23bc2a8d%09)](https://instagram.com/prash.life)
 [![Linkedin](https://img.shields.io/badge/Linked%20in-prashanthteja-blue)](https://www.linkedin.com/in/prashanthteja)
-
+[![Email](https://img.shields.io/badge/Email-prash@i.camp-red)](mailto:prash@i.camp)
 
 
 <!--
