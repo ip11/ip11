@@ -5,7 +5,7 @@
 
                                                                
 An Entrepreneur & Educationist. <br><br>
-Building Future Computer Science Education Platforms with [i.CAMP](https://i.CAMP), [CS.CAMP](https://CS.CAMP) (Under R & D - Live 2022-23). Passionate about coding , Innovation and wanna be the disruptor in the field of Computer Science Education. 
+#BUIDL'ng Future Computer Science Education Platforms with [i.CAMP](https://i.CAMP), [CS.CAMP](https://CS.CAMP) (Under R & D - Live 2022-23). Passionate about coding , Innovation and wanna be the disruptor in the field of Computer Science Education. #BUIDL #WEB3
 
 1 Year World Class Computer Science Bootcamp - Focus Field in Web Engineering, [CS.CODE.IN](https://cs.code.in) (Live) ✔️ 
 ### 💼 My On-Going Research Portfolio : 
