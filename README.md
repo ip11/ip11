@@ -5,7 +5,7 @@
 
                                                                
 An Entrepreneur & Educationist. <br><br>
-#BUIDL'ng Future Computer Science Education Platforms with [i.CAMP](https://i.CAMP), [CS.CAMP](https://CS.CAMP) (Under R & D - Live 2022-23). Passionate about coding , Innovation and wanna be the disruptor in the field of Computer Science Education. #BUIDL #WEB3
+[#BUIDL](https://www.definitions.net/definition/Buidl)'ng Future Computer Science Education Platforms with [i.CAMP](https://i.CAMP), [CS.CAMP](https://CS.CAMP) (Under R & D - Live 2022-23). Passionate about coding , Innovation and wanna be the disruptor in the field of Computer Science Education. [#BUIDL](https://www.definitions.net/definition/Buidl) [#WEB3](https://en.wikipedia.org/wiki/Web3)
 
 1 Year World Class Computer Science Bootcamp - Focus Field in Web Engineering, [CS.CODE.IN](https://cs.code.in) (Live) ✔️ 
 ### 💼 My On-Going Research Portfolio : 
@@ -22,7 +22,7 @@ An Entrepreneur & Educationist. <br><br>
 
 [![Twitter](https://img.shields.io/badge/Twitter-%40iprashanth__-%231DA1F2)](https://twitter.com/iprashanth_) 
 [![Instagram](https://img.shields.io/badge/Instagram-prash.life-%23bc2a8d%09)](https://instagram.com/prash.life)
-[![Linkedin](https://img.shields.io/badge/Linked%20in-prashanthteja-blue)](https://www.linkedin.com/in/prashanthteja)
+[![Linkedin](https://img.shields.io/badge/Linked%20in-prashanthteja-blue)](https://www.linkedin.com/in/prashanthbm)
 [![Email](https://img.shields.io/badge/Email-prash@i.camp-red)](mailto:prash@i.camp)
 
 
