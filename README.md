@@ -1,5 +1,5 @@
 <h1 align="center">Prashanth BM (Prash)</h1>
-<h2 align="center">Founder - Chief R&D i.CAMP | CS.CAMP | Computer Scientist  </h2>
+<!-- <h2 align="center"> Prash@i.camp </h2> -->
 
 
 
