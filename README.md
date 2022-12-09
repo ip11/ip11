@@ -5,9 +5,9 @@
 
                                                                
 An Entrepreneur & Educationist. <br><br>
-[#BUIDL](https://www.definitions.net/definition/Buidl)'ng Future Computer Science Education Platforms with [i.CAMP](https://i.CAMP), [CS.CAMP](https://CS.CAMP) (Under R & D - Live 2022-23). Passionate about coding , Innovation and wanna be the disruptor in the field of Computer Science Education. [#BUIDL](https://www.definitions.net/definition/Buidl) [#WEB3](https://en.wikipedia.org/wiki/Web3)
+[#BUIDL](https://www.definitions.net/definition/Buidl)'ng Future Computer Science Education Platforms with [i.CAMP](https://i.CAMP), [0x.Day](https://0x.Day) (Live 2023). Passionate about coding , Innovation and wanna be the disruptor in the field of Computer Science Education. [#BUIDL](https://www.definitions.net/definition/Buidl) [#WEB3](https://en.wikipedia.org/wiki/Web3)
 
-1 Year World Class Computer Science Bootcamp - Focus Field in Web Engineering, [CS.CODE.IN](https://cs.code.in) (Live) ✔️ 
+<!-- 1 Year World Class Computer Science Bootcamp - Focus Field in Web Engineering, [CS.CODE.IN](https://cs.code.in) (Live) ✔️ 
 ### 💼 My On-Going Research Portfolio : 
 * Algorithm Bootcamp - Competitive Programming & Mathematics for Programmers [ALGOS.CAMP](https://algos.camp) (Live 2023) 🔄
 * Software Architecting and System Design Bootcamp. An Open Access Programmers Platform. [i.CAMP](https://i.CAMP) (Live 2022-23) 🔄
@@ -19,7 +19,7 @@ An Entrepreneur & Educationist. <br><br>
 * Web Compiler [1COMPILER.COM](http://1compiler.com/) (Live 2023) 🔄
 * Mathematics for Computer Science [MATHS.CAMP](http://maths.camp) (Live 2023-24) 🔄
 * Mechatronics Camp [MECHATRONICS.CAMP](https://MECHATRONICS.CAMP) (Live 2024-25)  🔄
-
+ -->
 <br>
 
 [![Twitter](https://img.shields.io/badge/Twitter-%40iprashanth__-%231DA1F2)](https://twitter.com/iprashanth_) 
