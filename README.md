@@ -5,7 +5,7 @@
 
                                                                
 An Entrepreneur & Educationist. <br><br>
-[#BUIDL](https://www.definitions.net/definition/Buidl)'ng Future Computer Science Education Platforms with [i.CAMP](https://i.CAMP), [0x.Day](https://0x.Day) (Live 2023). Passionate about Programming , Innovation and wanna be the disruptor in the field of Computer Science Education. [#BUIDL](https://www.definitions.net/definition/Buidl) [#WEB3](https://en.wikipedia.org/wiki/Web3)
+[#BUIDL](https://www.definitions.net/definition/Buidl)'ng Future Computer Science Education Platforms with [i.CAMP](https://i.CAMP) (Live 2023). Passionate about Programming , Innovation and wanna be the disruptor in the field of Computer Science Education. [#BUIDL](https://www.definitions.net/definition/Buidl) [#WEB3](https://en.wikipedia.org/wiki/Web3)
 
 <!-- 1 Year World Class Computer Science Bootcamp - Focus Field in Web Engineering, [CS.CODE.IN](https://cs.code.in) (Live) ✔️ 
 ### 💼 My On-Going Research Portfolio : 
